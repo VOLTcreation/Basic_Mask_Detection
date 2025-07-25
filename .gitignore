@@ -1,0 +1,29 @@
+# Python cache and virtual env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+env/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Model and data
+*.h5
+*.json
+
+# Logs
+*.log
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# OS-specific
+*.swp
