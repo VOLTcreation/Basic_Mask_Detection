@@ -88,6 +88,7 @@ try:
         key = cv2.waitKey(1)
         if key == ord('q') or key == 27:  # ESC key
             break
+        
 
 except KeyboardInterrupt:
     print("\n🔌 Stopped by user (Ctrl+C)")
