@@ -11,7 +11,7 @@ It detects faces and classifies them as:
 ## ⚠️ Disclaimer
 
 > **The `.h5` model (`mask_data.h5`) used here is not trained on a large or diverse dataset.**
->
+> **To train the model check the procedure and code out at :https://colab.research.google.com/drive/1ihNHmssCkGR4PKLLF3dEBsWR2IgoID9f#scrollTo=4p3aOjmQaG-g**
 > As a result, predictions may not be very accurate and should **not** be used for any critical applications. This is a **demo only**.
 
 ---
