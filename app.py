@@ -93,6 +93,7 @@ except KeyboardInterrupt:
     print("\n🔌 Stopped by user (Ctrl+C)")
 
 finally:
+    
     print("🛑 Releasing camera and closing windows...")
     cap.release()
     cv2.destroyAllWindows()
